@@ -4,9 +4,6 @@
 Over the time I developed a new theme based on that, which I migrated now to Alien Night. 
 I hope you like it!
 
-I wanna share a dark discourse theme I created for my [HWS server empyrion forum](https://forum.empyrion-homeworld.net).
-It should be a combination of a dark space with the main color teal, secondary color orange and tertiary color green.
-
 ## Installation
 https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682
 
