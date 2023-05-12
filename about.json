@@ -1,10 +1,10 @@
 {
-  "name": "Alien Night | A Dark Discourse Theme",
+  "name": "SimpleOne Night | A Dark Discourse Theme",
   "component": false,
-  "about_url": "https://github.com/B-iggy/alien-night-discourse-dark-theme",
-  "license_url": "https://github.com/B-iggy/alien-night-discourse-dark-theme/blob/master/LICENSE",
-  "authors": "Ignaz Biegler",
-  "theme_version": "4.1.0",
+  "about_url": "https://github.com/DxCpp/community.simpleone/",
+  "license_url": "https://github.com/DxCpp/community.simpleone/blob/master/LICENSE",
+  "authors": "Rishat Niyazov",
+  "theme_version": "1.0.0",
   "assets": {
   },
   "color_schemes": {
