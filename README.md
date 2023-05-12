@@ -1,4 +1,4 @@
-# SimpleOne Night | A Dark Theme for Discourse 2.0
+# SimpleOne Night
 
 ## Installation
 https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682
