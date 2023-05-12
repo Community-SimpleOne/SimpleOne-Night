@@ -1,4 +1,4 @@
-# Alien Night | A Dark Theme for Discourse 2.0
+# SimpleOne Night | A Dark Theme for Discourse 2.0
 
 > After 2 years (scary), I finally got time to update this theme!
 Over the time I developed a new theme based on that, which I migrated now to Alien Night. 
