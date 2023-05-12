@@ -1,9 +1,5 @@
 # SimpleOne Night | A Dark Theme for Discourse 2.0
 
-> After 2 years (scary), I finally got time to update this theme!
-Over the time I developed a new theme based on that, which I migrated now to Alien Night. 
-I hope you like it!
-
 ## Installation
 https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682
 
