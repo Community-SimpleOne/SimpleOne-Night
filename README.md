@@ -10,7 +10,7 @@ Basically pretty easy and straight forward:
 3. Themes
 4. Import
 5. From the web > github repro URL:
-https://github.com/B-iggy/alien-night-discourse-dark-theme
+[https://github.com/B-iggy/alien-night-discourse-dark-theme](https://github.com/Community-SimpleOne/SimpleOne-Night)
 6. Adjust as you wish. A Color Scheme is inclusive
 
 ## Additional feature: Theme Switcher
